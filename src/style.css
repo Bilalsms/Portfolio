@@ -14,6 +14,10 @@ html {
   --imp-text-color: #c770f0;
 }
 
+.zoomed {
+  transform: scale(1.2);
+}
+
 .purple {
   color: var(--imp-text-color) !important;
 }
