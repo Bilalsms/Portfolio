@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/k200209/Portfolio%20Website/_apis/build/status%2FBilalsms.Portfolio%20(2)?branchName=main)](https://dev.azure.com/k200209/Portfolio%20Website/_build/latest?definitionId=12&branchName=main)
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">smb.com</a>
