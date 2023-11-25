@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/k200209/Portfolio%20Website/_apis/build/status%2FBilalsms.Portfolio%20(2)?branchName=main)](https://dev.azure.com/k200209/Portfolio%20Website/_build/latest?definitionId=12&branchName=main)
+[![Board Status](https://dev.azure.com/k200209/e7270d05-c2ac-48f2-8574-7987dadb8cc5/6d1757b0-4ed1-43fa-abeb-3752f78a1305/_apis/work/boardbadge/3f75a20e-ee04-4341-b78e-a8eb8454b028)](https://dev.azure.com/k200209/e7270d05-c2ac-48f2-8574-7987dadb8cc5/_boards/board/t/6d1757b0-4ed1-43fa-abeb-3752f78a1305/Microsoft.FeatureCategory/)
 <h2 align="center">
   Portfolio Website - v2.0<br/>
   <a href="https://soumyajit.vercel.app/" target="_blank">smb.com</a>
