@@ -1,3 +1,6 @@
+// comment 
+// comment 2
+
 import React, { useState, useEffect } from "react";
 import Preloader from "../src/components/Pre";
 import Navbar from "./components/Navbar";
